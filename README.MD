@@ -6,6 +6,7 @@
 | 独立显卡 | GeForce 920M           |
 | 硬盘     | Netac SSD 240GB        |
 | 声卡     | Realtek ALC233         |
+| WIFI    | int AX200              |
 
 OC版本0.7.2
 

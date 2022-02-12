@@ -8,7 +8,7 @@
 | 声卡     | Realtek ALC233         |
 | WIFI    | int AX200              |
 
-OC版本0.7.2
+OC版本0.7.5
 
 MacOS版本11.5.2<br />
 
